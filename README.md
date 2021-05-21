@@ -1,4 +1,6 @@
 # Sonic-Radar
+This project involves the use of sonic radar to detect obstacles nearby and visualize it through the use of Processing software.
+
 ### Working model link:
 https://drive.google.com/file/d/1ggcsxf7Mg-I77ftZgE2X__EapknGBisD/view?usp=sharing
 
